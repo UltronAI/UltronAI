@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on Robot Learning and Reinforcement Learning
+- 📫 How to reach me: gao-f19@mails.tsinghua.edu.cn
+
 [![Feng Gao's github stats](https://github-readme-stats.vercel.app/api?username=UltronAI)](https://github.com/anuraghazra/github-readme-stats)
