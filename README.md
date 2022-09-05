@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a Ph.D student of IIIS, Tsinghua University, working on Robot Learning and Reinforcement Learning.
+- 🔭 I’m currently a Ph.D student of IIIS, Tsinghua University, working on Robotics and Reinforcement Learning.
 - 📫 How to reach me: gaof22@mails.tsinghua.edu.cn
 
 [![Feng Gao's github stats](https://github-readme-stats.vercel.app/api?username=UltronAI)](https://github.com/anuraghazra/github-readme-stats)
